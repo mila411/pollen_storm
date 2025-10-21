@@ -1,5 +1,9 @@
 # 🌸 PollenStorm AI
 
+<p align="center">
+  <img src=".github/main.png" alt="main" width=85%>
+</p>
+
 **リアルタイム日本花粉データ可視化 & AI予測システム**
 
 PollenStorm AIは、日本の花粉データを3D可視化し、AIモデルで花粉レベルを予測するWebアプリケーションです。時系列データ表示、地域別詳細情報、インタラクティブな3D/マップビューを提供します。
