@@ -36,7 +36,7 @@ const RAW_RUNTIME_STATE =
           ["@types/react-dom", "npm:18.2.19"],\
           ["@types/three", "npm:0.160.0"],\
           ["autoprefixer", "virtual:539268fd7b3f9e24caa8c86e05704629ba3a4c92b7a7bcd65b446f18430b10f9ccd0549bc868577c10afb37dbfa781c9b2b78a562cececfa2dc8026075ae45d8#npm:10.4.16"],\
-          ["axios", "npm:1.6.7"],\
+          ["axios", "npm:1.12.0"],\
           ["eslint", "npm:8.57.0"],\
           ["eslint-config-next", "virtual:539268fd7b3f9e24caa8c86e05704629ba3a4c92b7a7bcd65b446f18430b10f9ccd0549bc868577c10afb37dbfa781c9b2b78a562cececfa2dc8026075ae45d8#npm:14.2.3"],\
           ["leaflet", "npm:1.9.4"],\
@@ -1600,11 +1600,11 @@ const RAW_RUNTIME_STATE =
       }]\
     ]],\
     ["axios", [\
-      ["npm:1.6.7", {\
-        "packageLocation": "../../.yarn/berry/cache/axios-npm-1.6.7-d7b9974d1b-10c0.zip/node_modules/axios/",\
+      ["npm:1.12.0", {\
+        "packageLocation": "../../.yarn/berry/cache/axios-npm-1.12.0-58e24ac59e-10c0.zip/node_modules/axios/",\
         "packageDependencies": [\
-          ["axios", "npm:1.6.7"],\
-          ["follow-redirects", "virtual:d7b9974d1bba76881cc57a280a16dd4914416a6fc4923c2efbb6328057412974da1e719cef1530b7a62b97d85d828f7e1d49b5f6de3b5b0854d49902ec87827c#npm:1.15.11"],\
+          ["axios", "npm:1.12.0"],\
+          ["follow-redirects", "virtual:58e24ac59ed4f801797831333a65a5df3bd85bc9be6bf725983a68b2c9bd36659e4c9c86f006b9d10f4d981a7dca8d7192659cd30e0d542a39db8b9e42cbb40a#npm:1.15.11"],\
           ["form-data", "npm:4.0.4"],\
           ["proxy-from-env", "npm:1.1.0"]\
         ],\
@@ -2942,12 +2942,12 @@ const RAW_RUNTIME_STATE =
         ],\
         "linkType": "SOFT"\
       }],\
-      ["virtual:d7b9974d1bba76881cc57a280a16dd4914416a6fc4923c2efbb6328057412974da1e719cef1530b7a62b97d85d828f7e1d49b5f6de3b5b0854d49902ec87827c#npm:1.15.11", {\
-        "packageLocation": "./.yarn/__virtual__/follow-redirects-virtual-295a4fbdec/3/.yarn/berry/cache/follow-redirects-npm-1.15.11-ae7b2db266-10c0.zip/node_modules/follow-redirects/",\
+      ["virtual:58e24ac59ed4f801797831333a65a5df3bd85bc9be6bf725983a68b2c9bd36659e4c9c86f006b9d10f4d981a7dca8d7192659cd30e0d542a39db8b9e42cbb40a#npm:1.15.11", {\
+        "packageLocation": "./.yarn/__virtual__/follow-redirects-virtual-0cdb153e46/3/.yarn/berry/cache/follow-redirects-npm-1.15.11-ae7b2db266-10c0.zip/node_modules/follow-redirects/",\
         "packageDependencies": [\
           ["@types/debug", null],\
           ["debug", null],\
-          ["follow-redirects", "virtual:d7b9974d1bba76881cc57a280a16dd4914416a6fc4923c2efbb6328057412974da1e719cef1530b7a62b97d85d828f7e1d49b5f6de3b5b0854d49902ec87827c#npm:1.15.11"]\
+          ["follow-redirects", "virtual:58e24ac59ed4f801797831333a65a5df3bd85bc9be6bf725983a68b2c9bd36659e4c9c86f006b9d10f4d981a7dca8d7192659cd30e0d542a39db8b9e42cbb40a#npm:1.15.11"]\
         ],\
         "packagePeers": [\
           "@types/debug",\
@@ -4747,7 +4747,7 @@ const RAW_RUNTIME_STATE =
           ["@types/react-dom", "npm:18.2.19"],\
           ["@types/three", "npm:0.160.0"],\
           ["autoprefixer", "virtual:539268fd7b3f9e24caa8c86e05704629ba3a4c92b7a7bcd65b446f18430b10f9ccd0549bc868577c10afb37dbfa781c9b2b78a562cececfa2dc8026075ae45d8#npm:10.4.16"],\
-          ["axios", "npm:1.6.7"],\
+          ["axios", "npm:1.12.0"],\
           ["eslint", "npm:8.57.0"],\
           ["eslint-config-next", "virtual:539268fd7b3f9e24caa8c86e05704629ba3a4c92b7a7bcd65b446f18430b10f9ccd0549bc868577c10afb37dbfa781c9b2b78a562cececfa2dc8026075ae45d8#npm:14.2.3"],\
           ["leaflet", "npm:1.9.4"],\
