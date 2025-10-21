@@ -1,0 +1,9 @@
+{
+  "station": "441321000",
+  "prefecture": "東京都",
+  "city": "千代田区",
+  "pollenCount": 82.5,
+  "timestamp": "2024-03-15T09:00:00+09:00",
+  "source": "static-fallback",
+  "notes": "Generated sample for offline fallback"
+}

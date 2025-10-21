@@ -1,0 +1,83 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --pollen-yellow: #ffd700;
+  --pollen-orange: #ff8c00;
+  --pollen-red: #ff4500;
+  --bg-dark: #0a0e27;
+  --bg-darker: #050810;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  background: var(--bg-darker);
+  color: #ffffff;
+  font-family: var(--font-noto-sans-jp), sans-serif;
+  overflow-x: hidden;
+}
+
+/* Pollen Level Colors */
+.pollen-low { color: #4ade80; }
+.pollen-moderate { color: #fbbf24; }
+.pollen-high { color: #fb923c; }
+.pollen-very-high { color: #ef4444; }
+
+.bg-pollen-low { background-color: #4ade8033; }
+.bg-pollen-moderate { background-color: #fbbf2433; }
+.bg-pollen-high { background-color: #fb923c33; }
+.bg-pollen-very-high { background-color: #ef444433; }
+
+/* Custom scrollbar */
+::-webkit-scrollbar {
+  width: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: var(--bg-dark);
+}
+
+::-webkit-scrollbar-thumb {
+  background: #4a5568;
+  border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #718096;
+}
+
+/* Animations */
+@keyframes pulse-glow {
+  0%, 100% {
+    opacity: 1;
+  }
+  50% {
+    opacity: 0.5;
+  }
+}
+
+.pulse-glow {
+  animation: pulse-glow 2s ease-in-out infinite;
+}
+
+@keyframes float {
+  0%, 100% {
+    transform: translateY(0px);
+  }
+  50% {
+    transform: translateY(-10px);
+  }
+}
+
+.float-animation {
+  animation: float 3s ease-in-out infinite;
+}
+
+/* Glass morphism effect */
+.glass {
+  background: rgba(255, 255, 255, 0.05);
+  backdrop-filter: blur(10px);
+  border: 1px solid rgba(255, 255, 255, 0.1);
+}

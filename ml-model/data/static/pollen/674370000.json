@@ -1,0 +1,9 @@
+{
+  "station": "674370000",
+  "prefecture": "広島県",
+  "city": "広島市",
+  "pollenCount": 60.9,
+  "timestamp": "2024-03-15T09:00:00+09:00",
+  "source": "static-fallback",
+  "notes": "Generated sample for offline fallback"
+}

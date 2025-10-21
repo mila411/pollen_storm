@@ -1,0 +1,9 @@
+{
+  "station": "620780000",
+  "prefecture": "大阪府",
+  "city": "大阪市",
+  "pollenCount": 64.2,
+  "timestamp": "2024-03-15T09:00:00+09:00",
+  "source": "static-fallback",
+  "notes": "Generated sample for offline fallback"
+}

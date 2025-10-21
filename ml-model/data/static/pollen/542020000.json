@@ -1,0 +1,9 @@
+{
+  "station": "542020000",
+  "prefecture": "宮城県",
+  "city": "仙台市",
+  "pollenCount": 22.4,
+  "timestamp": "2024-03-15T09:00:00+09:00",
+  "source": "static-fallback",
+  "notes": "Generated sample for offline fallback"
+}

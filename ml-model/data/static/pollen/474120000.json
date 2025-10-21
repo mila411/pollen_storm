@@ -1,0 +1,9 @@
+{
+  "station": "474120000",
+  "prefecture": "北海道",
+  "city": "札幌市",
+  "pollenCount": 12.8,
+  "timestamp": "2024-03-15T09:00:00+09:00",
+  "source": "static-fallback",
+  "notes": "Generated sample for offline fallback"
+}

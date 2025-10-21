@@ -1,0 +1,9 @@
+{
+  "station": "511060000",
+  "prefecture": "愛知県",
+  "city": "名古屋市",
+  "pollenCount": 44.7,
+  "timestamp": "2024-03-15T09:00:00+09:00",
+  "source": "static-fallback",
+  "notes": "Generated sample for offline fallback"
+}
